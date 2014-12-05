@@ -1,4 +1,4 @@
-sLideshow
+SlIDESHOW
 =========
 
-sLideshow
+SlIDESHOW
