@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/cubicleDowns/SLIDESHOW/master/slideshow.png "SLIDESHOW LOGO")
 
-Slideshow tips, links and topics for use in parallel with a presentation.  Sorta like foot notes but in parallel.
+Slideshow tips, links and topics for use in parallel with a presentation.  Sorta like footnotes, but viewed in parallel to a presentation.
 
 Features:
 * Associate external material to a live presentation page.
