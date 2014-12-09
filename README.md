@@ -1,10 +1,9 @@
-SLIDESHOW
-========
+![alt text](https://raw.githubusercontent.com/cubicleDowns/SLIDESHOW/master/slideshow.png "SLIDESHOW LOGO")
 
 Slideshow tips, links and topics for use in parallel with a presentation.  Sorta like foot notes but in parallel.
 
 Features:
 * Associate external material to a live presentation page.
-* Allow users to browse through material.
+* Allow users to browse through material during and after presentation.
 * Firebase linkage keeps the SLIDESHOW synced to the same page.
-  * This is disabled currently to do Firebase excpense for synchronous connections
+  * This is disabled currently to do Firebase expense for synchronous connections
